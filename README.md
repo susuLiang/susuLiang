@@ -2,7 +2,7 @@
 I work as iOS developer for 4 years of working experience. Now I’m work in MOMO as Sr. iOS developer. <br>
 
 
-### Heres my iOS work experience and projects!
+### Here's my iOS work experience and projects!
 #### MOMO.COM INC. Sr. iOS Developer 2019/08 ~ now
 
 https://user-images.githubusercontent.com/33084266/170816924-a35dfdc0-b8b1-4d8c-888e-aba1e81430a6.mp4
