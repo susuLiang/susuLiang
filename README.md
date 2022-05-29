@@ -1,6 +1,12 @@
 ### Hi, I'm susuLiang.  👋
-I work as iOS developer for 4 years of working experience. Now I’m work in MOMO as Sr. iOS developer. <br>
-
+I work as iOS developer for 4 years of working experience. Familiar with Swift and Objective-C.
+Now I’m work in MOMO as Sr. iOS developer. I’m interest in workflow automation, it makes me become CI/CD person in charge.
+I used to work with other team, and I’m glad to find user experience issue to discuss with team members. 
+I’m obsessed with write clean-code. 
+I don’t like to cause trouble to others, so I do my best to finish my work. 
+I’m highly organized and attentive, it makes become the most helpful code reviewer among colleagues.
+I always received excellent compliments by colleagues and supervisors because of my highly proactive.
+If you have any question with me, please send email to sophie790709@gmail.com!
 
 ### Here's my iOS work experience and projects!
 #### MOMO.COM INC. Sr. iOS Developer 2019/08 ~ now
