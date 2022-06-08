@@ -40,7 +40,7 @@ App for MOMO delivery driver. Has pages about delivery task list, delivery route
 
 - Fun88
 
-A game APP in Malaysia. Has game list, promotion list, cash transfer, drawal, recharge, profile pages.
+A game APP in Malaysia. Has game list, promotion list, cash transfer, draw, recharge, and profile pages.
 
 <img src="https://user-images.githubusercontent.com/33084266/170879785-b66219fe-7718-4897-a7d6-cb0fda01521c.png" width="300"> <img src="https://user-images.githubusercontent.com/33084266/170879795-fdb14e54-128c-4e5d-bf7c-cdbe109cdd50.png" width="300"> <img src="https://user-images.githubusercontent.com/33084266/170879796-917a7e85-9cd4-4d28-aa63-232a833c5f4c.png" width="300">
 <img src="https://user-images.githubusercontent.com/33084266/170879790-82ce72bb-7a7b-4c0f-a191-6bcc109246c4.jpg" width="300"> <img src="https://user-images.githubusercontent.com/33084266/170879799-41cd3cdd-9284-4d67-814f-139a701f94dc.jpg" width="300"> <img src="https://user-images.githubusercontent.com/33084266/170879797-0c48da29-5c9b-4d23-a676-0306ed730eef.png" width="300"> 
@@ -50,7 +50,7 @@ A game APP in Malaysia. Has game list, promotion list, cash transfer, drawal, re
 -------------
 - National Sport 
 
-App for basketball and scooer, you can get the news about this ball game, and info about competition or players, it has a lot of form to make you clear to analyze.
+App for basketball and soccer, you can get the news about this ball game, and info about competition or players, it has a lot of forms to make you clear to analyze.
 
 <img src="https://user-images.githubusercontent.com/33084266/170880523-baf539eb-00d6-44ca-b129-f62cdfceefde.PNG" width="300"> <img src="https://user-images.githubusercontent.com/33084266/170880541-5380c128-7cd0-4cb1-a965-dcd6dc3ece95.PNG" width="300"> <img src="https://user-images.githubusercontent.com/33084266/170880543-82598a4e-62d3-48f8-86e4-21039348c844.PNG" width="300">
 <img src="https://user-images.githubusercontent.com/33084266/170880553-0002e6cd-0637-4206-bbda-4e5de0a7445a.PNG" width="300"> <img src="https://user-images.githubusercontent.com/33084266/170880562-571e9966-3549-4109-ac5d-2c4c77b8a089.PNG" width="300"> <img src="https://user-images.githubusercontent.com/33084266/170880566-6d872a81-1c49-4553-b3da-0c9b785370b4.PNG" width="300">
@@ -64,6 +64,6 @@ App for basketball and scooer, you can get the news about this ball game, and in
 
 - Sporty
 
-App for ball players to join. You can see the active ball team in list or map, you can also create a weekly ball game!
+App for ball players to join. You can see the active ball team in a list or map, you can also create a weekly ball game!
 
 <img src="https://user-images.githubusercontent.com/33084266/170817588-9bacb2c1-ebd5-46ba-9932-05b7ac425976.png" width="300"> <img src="https://user-images.githubusercontent.com/33084266/170817593-31a6468c-ab57-4bfc-b3e9-c4cf8cf78b62.png" width="300"> <img src="https://user-images.githubusercontent.com/33084266/170817597-c607d3e0-3adb-4aa7-a8f4-4099d6ab1eab.png" width="300"> <img src="https://user-images.githubusercontent.com/33084266/170817599-53c58426-3669-429f-93b1-9eedd8bc5fd1.png" width="300"> <img src="https://user-images.githubusercontent.com/33084266/170817603-d3f6805c-d23c-4f03-b7a0-7996e6427aa6.png" width="300"> <img src="https://user-images.githubusercontent.com/33084266/170817604-c66449ac-dd6f-42aa-96d3-1e851c62704d.png" width="300">
