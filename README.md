@@ -1,10 +1,10 @@
 ### Hi, I'm susuLiang.  👋
 I work as an iOS developer with 4 years of working experience. Familiar with Swift and Objective-C.<br>
-Now I’m working at MOMO as a Sr. iOS developer. I’m interested in workflow automation, which makes me become CI/CD person in charge.<br>
+Now I’m working at MOMO as a Sr. iOS developer. I’m interested in workflow automation, which makes me the CI/CD person in charge.<br>
 I used to work with other teams, and I’m glad to find user experience issues to discuss with team members. <br>
 I’m obsessed with writing clean code. <br>
 I don’t like to cause trouble for others, so I do my best to finish my work. <br>
-I’m highly organized and attentive, which makes me become the most helpful code reviewer among colleagues.<br>
+I’m highly organized and attentive, which makes me the most helpful code reviewer among colleagues.<br>
 I always received excellent compliments from colleagues and supervisors because of my being highly proactive.<br>
 If you have any question to me, please send email to sophie790709@gmail.com!
 
