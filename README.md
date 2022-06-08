@@ -12,9 +12,9 @@ If you have any question to me, please send email to sophie790709@gmail.com!
 ### MOMO.COM INC. Sr. iOS Developer 2019/08 ~ now
 - MOMO Shopping APP
 
-The most famous shopping app in Taiwan, it has 400 thousands DUA.
-I refactor many important feature about 30% code base. 
-Always discuss with other team and Android team about user experience and API usage, it increases customer stickness.
+The most famous shopping app in Taiwan has 400 thousand DUA.
+I refactor many important features with about a 30% code base. 
+Always discuss with other teams and the Android team about user experience and API usage, it increases customer stickiness.
 
 <img src="https://user-images.githubusercontent.com/33084266/170882041-0131c886-361a-4c25-93a3-4d19bed3e5b3.jpeg" width="300"> <img src="https://user-images.githubusercontent.com/33084266/170881776-2ce19a61-ff15-4147-97b2-589d8f2606e3.jpeg" width="300"> <img src="https://user-images.githubusercontent.com/33084266/170881777-60818868-20b2-41be-813e-d0c99751dbc0.jpeg" width="300">
 <img src="https://user-images.githubusercontent.com/33084266/170881779-71c92b4d-5ed4-422f-ad13-958289f71f5d.jpeg" width="300"> <img src="https://user-images.githubusercontent.com/33084266/170881781-845f9f95-adaf-41bc-a100-f3c6ccdfe378.jpeg" width="300"> <img src="https://user-images.githubusercontent.com/33084266/170879097-ad72f163-e621-472b-a3fe-b6b6812df4fe.jpeg" width="300">
@@ -29,7 +29,7 @@ https://user-images.githubusercontent.com/33084266/170816931-5aba535d-8e00-4ded-
 -------
 - MOMO TMS APP(internal)
 
-App for MOMO delivery driver. Has pages aboout delivery task list, delivery route on google map, task detail, receipt photo upload, barcode scan.
+App for MOMO delivery driver. Has pages about delivery task list, delivery route on google map, task detail, receipt photo upload, and barcode scan.
 
 <img src="https://user-images.githubusercontent.com/33084266/170879097-ad72f163-e621-472b-a3fe-b6b6812df4fe.jpeg" width="300"> <img src="https://user-images.githubusercontent.com/33084266/170879100-ef9cd031-f97e-4e3a-b4cc-cf3a54126207.PNG" width="300"> <img src="https://user-images.githubusercontent.com/33084266/170879101-22bd6269-818a-4f9d-a7c7-9ec54398bc77.PNG" width="300"> <img src="https://user-images.githubusercontent.com/33084266/170879104-c4556893-d10e-40a5-95fe-2a7731e337e4.jpeg" width="300"> <img src="https://user-images.githubusercontent.com/33084266/170879145-15a47b22-e49a-4a0a-8789-db43d8f605c6.PNG" width="300"> <img src="https://user-images.githubusercontent.com/33084266/170879148-9940d0ed-9d5d-4214-9fea-68b1b6a2dd57.PNG" width="300"> <img src="https://user-images.githubusercontent.com/33084266/170879150-12c1447a-c6b6-44a7-9f57-3eafc48415f3.PNG" width="300"> <img src="https://user-images.githubusercontent.com/33084266/170879152-65efc62a-6586-406a-8fac-4a081a115a26.PNG" width="300"> <img src="https://user-images.githubusercontent.com/33084266/170879155-72609d79-0808-4e34-8cd0-a6bddf0e8dc5.PNG" width="300"> <img src="https://user-images.githubusercontent.com/33084266/170879156-0247605c-0ffa-4a2d-949e-86962a3139e5.PNG" width="300">
 
