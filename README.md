@@ -50,7 +50,7 @@ A game APP in Malaysia. Has game list, promotion list, cash transfer, draw, rech
 -------------
 - National Sport 
 
-App for basketball and soccer, you can get the news about this ball game, and info about competition or players, it has a lot of forms to make you clear to analyze.
+App for basketball and soccer. You can get news about these ball games, and info about competitions or players. It has a lot of forms to make it clear to analyze.
 
 <img src="https://user-images.githubusercontent.com/33084266/170880523-baf539eb-00d6-44ca-b129-f62cdfceefde.PNG" width="300"> <img src="https://user-images.githubusercontent.com/33084266/170880541-5380c128-7cd0-4cb1-a965-dcd6dc3ece95.PNG" width="300"> <img src="https://user-images.githubusercontent.com/33084266/170880543-82598a4e-62d3-48f8-86e4-21039348c844.PNG" width="300">
 <img src="https://user-images.githubusercontent.com/33084266/170880553-0002e6cd-0637-4206-bbda-4e5de0a7445a.PNG" width="300"> <img src="https://user-images.githubusercontent.com/33084266/170880562-571e9966-3549-4109-ac5d-2c4c77b8a089.PNG" width="300"> <img src="https://user-images.githubusercontent.com/33084266/170880566-6d872a81-1c49-4553-b3da-0c9b785370b4.PNG" width="300">
